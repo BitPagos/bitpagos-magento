@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bitpagos_Bitpagos>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Bitpagos_Bitpagos>
+    </modules>
+</config>

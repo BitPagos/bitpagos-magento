@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">    
+    <bitpagos_standard_success>
+        <reference name="content">
+        	<block type="core/template" name="bitpagos.btn" template="bitpagos/standard/success.phtml"/>
+        </reference>
+    </bitpagos_standard_success>
+    <bitpagos_standard_post>
+        <reference name="content">
+        	<block type="core/template" name="bitpagos.post" template="bitpagos/standard/post.phtml"/>
+        </reference>
+    </bitpagos_standard_post>
+</layout> 
